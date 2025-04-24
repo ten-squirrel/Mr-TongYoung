@@ -1,53 +1,62 @@
 ![visitor badge](https://komarev.com/ghpvc/?username=Mr-TongYoung&color=blue)
 
-## 👋 안녕하세요! 김준호입니다.
+# 👨‍💻 김준호 | 백엔드 개발자 | 대용량 트래픽 처리에 진심입니다
 
-고성능, 확장 가능한 백엔드 시스템을 설계하고 구축하는 데 열정을 가진 백엔드 개발자입니다.  
-**분산 시스템**, **메시지 큐**, **데이터베이스 내부 동작 원리**에 관심이 많으며,  
-최근에는 **시스템 관측성(Observability)** 과 **실시간 처리 시스템**에 깊이 몰입하고 있습니다.
+안녕하세요! 저는 **Java, Spring 기반의 백엔드 시스템 설계 및 성능 최적화**에 관심이 많은 개발자입니다.  
+**대규모 트래픽 환경에서도 안정적인 서비스 제공**을 목표로, Kafka 기반 메시징 처리, Redis 캐싱, PostgreSQL 인덱싱 등  
+**실제 트래픽 상황을 고려한 아키텍처 설계와 성능 테스트**에 집중하고 있습니다.
+
+> "빠르고 확장 가능하며 관측 가능한 시스템을 만드는 것이 저의 목표입니다." 🚀
 
 ---
 
-### 🚀 기술 스택 & 도구
+## 🧰 기술 스택
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nGrinder-0B0B0B?style=flat"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nGrinder-0B0B0B?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-### 🛠 프로젝트 & 경험
+## 💼 프로젝트 경험
 
-#### 🐦 러닝 SNS 서비스 (개인 프로젝트)
-- 대규모 트래픽을 처리할 수 있는 SNS 백엔드 아키텍처 직접 설계 및 구현  
-- Redis 기반 뉴스피드 캐시 구조 최적화 및 Fetch Join의 성능 병목 해결  
-- Kafka + CDC 기반의 비동기 처리 구조로 **53000명 팔로워 캐시 갱신 병목 해소**  
-- nGrinder를 활용한 TPS 및 P99 지연 시간 성능 개선  
-- Grafana와 PostgreSQL을 연동해 실시간 대시보드 구축
+### 🏃‍♂️ 러닝 SNS 서비스 (개인 프로젝트)
+- Kafka + Redis 기반 뉴스피드 캐시 아키텍처 설계  
+- 게시글 FanOut 구조 → Kafka 메시지 큐 기반 비동기 처리 구조 전환 (53000명 대상 병목 해소)  
+- nGrinder 부하 테스트 및 Grafana로 TPS, P99 지연시간 시각화
 
-#### 🌱 탐조 커뮤니티 운영
-- 지역 기반 탐조 모임을 직접 기획 및 운영  
-- 자연 관찰 활동 및 "빅버드레이스" 포스터를 통해 환경 보호와 생태계 보전에 기여
+### 🍻 술게임 백과사전 (팀 프로젝트)
+- AWS S3 기반 이미지 업로드 구현
+- Spring 생태계에 대한 기초 학습 기반 마련
 
----
-
-### 🌟 요즘 관심 있는 기술
-
-- Kafka 기반 마이크로서비스 이벤트 아키텍처  
-- PostgreSQL 성능 최적화 및 EXPLAIN PLAN 분석  
-- 클라우드 네이티브 기술: Kubernetes, Harbor, ArgoCD 등 DevOps 도입
+### 🐦 탐조 커뮤니티 운영
+- 지역 기반 자연관찰 활동 기획 및 커뮤니티 관리
+- 환경보호 인식 향상 활동 병행
 
 ---
 
-### 💡 알고리즘 풀이 활동
+## 📌 현재 관심 분야
+
+- Kafka 기반 MSA 이벤트 설계
+- PostgreSQL 성능 분석 (인덱싱, EXPLAIN PLAN 등)
+- 클라우드 네이티브 아키텍처 (Kubernetes, Harbor, ArgoCD 등)
+- ELK 스택 로그 분석 및 실시간 시각화
+
+---
+
+## 🧠 알고리즘 & 활동
 
 <p align="left">
   <a href="https://solved.ac/profile/kokm333" target="_blank">
@@ -57,9 +66,11 @@
 </p>
 
 ---
- 
-- 이메일: kokm333@gmail.com
-- velog: https://velog.io/@junho_99/posts
+
+## 📫 연락처 및 활동
+
+- Email: **kokm333@gmail.com**  
+- Blog: [Velog | @junho_99](https://velog.io/@junho_99/posts)
 
 ---
 
