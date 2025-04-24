@@ -57,16 +57,9 @@
 </p>
 
 ---
-
-### 📬 연락처
-- GitHub Issue나 Discussion은 언제든 환영입니다!  
+ 
 - 이메일: kokm333@gmail.com
-
----
-
-### ⚡ TMI
-> 새 이름을 구분할 줄 알기 전에 Java 예외 디버깅부터 배웠습니다.  
-> 이젠 둘 다 잘합니다 🐦 ➡️ 🐞
+- velog: https://velog.io/@junho_99/posts
 
 ---
 
