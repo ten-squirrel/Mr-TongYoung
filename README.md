@@ -1,11 +1,14 @@
-## 👋 Hi there! I'm Junho Kim
+![visitor badge](https://komarev.com/ghpvc/?username=Mr-TongYoung&color=blue)
 
-I'm a backend engineer passionate about building high-performance, scalable systems.  
-I love exploring how **distributed systems**, **message queues**, and **database internals** work under the hood, and I'm currently deep-diving into **system observability** and **real-time processing**.
+## 👋 안녕하세요! 김준호입니다.
+
+고성능, 확장 가능한 백엔드 시스템을 설계하고 구축하는 데 열정을 가진 백엔드 개발자입니다.  
+**분산 시스템**, **메시지 큐**, **데이터베이스 내부 동작 원리**에 관심이 많으며,  
+최근에는 **시스템 관측성(Observability)** 과 **실시간 처리 시스템**에 깊이 몰입하고 있습니다.
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 기술 스택 & 도구
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -21,48 +24,51 @@ I love exploring how **distributed systems**, **message queues**, and **database
 
 ---
 
-### 🛠 Projects & Experience
+### 🛠 프로젝트 & 경험
 
-#### 🐦 SNS Running Service (개인 프로젝트)
-- 트래픽을 견디는 SNS 백엔드 아키텍처를 설계하고 직접 개발  
-- Redis 기반 뉴스피드 캐싱 구조 최적화 및 Fetch Join 성능 병목 개선  
-- Kafka + CDC 기반 비동기 처리 구조 적용 → **53000명의 팔로워 캐시 갱신 병목 해소**  
-- nGrinder로 성능 병목 분석 → TPS, P99 지연 시간 개선  
-- Grafana + PostgreSQL 연동 대시보드 구축으로 실시간 시스템 모니터링
+#### 🐦 러닝 SNS 서비스 (개인 프로젝트)
+- 대규모 트래픽을 처리할 수 있는 SNS 백엔드 아키텍처 직접 설계 및 구현  
+- Redis 기반 뉴스피드 캐시 구조 최적화 및 Fetch Join의 성능 병목 해결  
+- Kafka + CDC 기반의 비동기 처리 구조로 **53000명 팔로워 캐시 갱신 병목 해소**  
+- nGrinder를 활용한 TPS 및 P99 지연 시간 성능 개선  
+- Grafana와 PostgreSQL을 연동해 실시간 대시보드 구축
 
 #### 🌱 탐조 커뮤니티 운영
-- 지역 기반 탐조 모임 활성화 및 환경운동 프레젠테이션 기획  
-- "빅버드레이스" 포스터 및 자연관찰 활동을 통해 **지속 가능한 생태학적 관심 확산**
+- 지역 기반 탐조 모임을 직접 기획 및 운영  
+- 자연 관찰 활동 및 "빅버드레이스" 포스터를 통해 환경 보호와 생태계 보전에 기여
 
 ---
 
-### 🌟 Currently Interested In
-- Kafka 기반 Microservice Event-Driven Architecture  
-- PostgreSQL EXPLAIN 분석과 성능 최적화 전략  
-- 클라우드 네이티브 기술 (Kubernetes, Harbor, ArgoCD의 DevOps 적용)
+### 🌟 요즘 관심 있는 기술
+
+- Kafka 기반 마이크로서비스 이벤트 아키텍처  
+- PostgreSQL 성능 최적화 및 EXPLAIN PLAN 분석  
+- 클라우드 네이티브 기술: Kubernetes, Harbor, ArgoCD 등 DevOps 도입
 
 ---
 
-### 💡 Competitive Programming
+### 💡 알고리즘 풀이 활동
 
 <p align="left">
-  <a href="https://solved.ac/profile/your_solvedac_id" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kokm333" alt="Solved.ac Profile"/>
+  <a href="https://solved.ac/profile/kokm333" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kokm333" alt="Solved.ac 프로필"/>
+    <img src="https://mazandi.herokuapp.com/api?handle=kokm333&theme=warm"/>
   </a>
 </p>
 
 ---
 
-### 📬 Let's Connect
-- GitHub Issues & Discussions always welcome!
-- Email: junho.dev.contact@gmail.com
+### 📬 연락처
+- GitHub Issue나 Discussion은 언제든 환영입니다!  
+- 이메일: kokm333@gmail.com
 
 ---
 
-### ⚡ Fun fact
-> I used to identify birds before I could debug Java exceptions.  
-> Now I do both 🐦 ➡️ 🐞
+### ⚡ TMI
+> 새 이름을 구분할 줄 알기 전에 Java 예외 디버깅부터 배웠습니다.  
+> 이젠 둘 다 잘합니다 🐦 ➡️ 🐞
 
 ---
 
-<sub>🔗 Inspired by: [jjinueng 블로그 - README 꾸미기 A to Z](https://jjinueng.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%9C%EB%AF%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC-README-A-to-Z)</sub>
+![Junho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-TongYoung&show_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TongYoung&theme=dracula)
