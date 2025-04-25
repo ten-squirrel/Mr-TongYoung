@@ -38,6 +38,7 @@
 - nGrinder 부하 테스트 및 Grafana로 TPS, P99 지연시간 시각화
 
 ### 🍻 술게임 백과사전 (팀 프로젝트)
+https://github.com/Mr-Tongyoung/SNS_demo
 - AWS S3 기반 이미지 업로드 구현
 - Spring 생태계에 대한 기초 학습 기반 마련
 
