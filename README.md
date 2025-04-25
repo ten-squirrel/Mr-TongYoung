@@ -37,8 +37,7 @@
 - 게시글 FanOut 구조 → Kafka 메시지 큐 기반 비동기 처리 구조 전환 (53000명 대상 병목 해소)  
 - nGrinder 부하 테스트 및 Grafana로 TPS, P99 지연시간 시각화
 
-### 🍻 술게임 백과사전 (팀 프로젝트)
-https://github.com/Mr-Tongyoung/SNS_demo
+### 🍻 [술게임 백과사전](https://github.com/Mr-Tongyoung/SNS_demo) (팀 프로젝트)
 - AWS S3 기반 이미지 업로드 구현
 - Spring 생태계에 대한 기초 학습 기반 마련
 
